@@ -5,7 +5,9 @@ Hey my Name Is() {
 I am an entry level Software QA looking to grow and learn more and more.
 I began my journey into tech at the beginning of 2025, after A Certifiction in: {
         Software Quality Assurance,
-        from
+        from 
+        Sam Ripplinger
+        at
         MountainLand Technincal College
             Lehi, Utah
         In the heart of Silicon Slopes
